@@ -26,7 +26,10 @@
 ***
 #### ddf8196
 - Discord: @ddf8196#5721
-
+***
+#### ForgedCore8
+- Github: https://github.com/ForgedCore8
+- Discord: @forgedcore8
 ***
 ***
 ## Playtesters
